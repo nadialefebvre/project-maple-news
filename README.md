@@ -1,4 +1,6 @@
-# Week 2 project: news site
+# Project Maple News
+
+Weekly project for Technigo's bootcamp, week 2: build a webpage for news with responsive layout
 
 For this project, we had to create a responsive (ideally mobile first approach) news site with header, one big news and some news cards arranged so there are fewer columns on smaller screens (typically 4 for desktop, 2 for tablet, 1 for phone).  We were invited to practice layout techniques Grid and Flexbox.
 
