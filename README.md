@@ -13,3 +13,7 @@ If I had more time, I would try to make an only grid/flexbox version to deepen m
 ## View it live
 
 Project deployed here: [Maple News](https://maple-news.netlify.app)
+
+<div align="center">
+  <img src="screenshot.jpg" />
+</div>
